@@ -1,2 +1,2 @@
 # gwas-browser
-website is www.gwasbrowser.com
+website is gwasbrowser.com
